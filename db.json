@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "aspek_penilaian": 1,
+      "mahasiswa_1": 1,
+      "mahasiswa_2": 1,
+      "mahasiswa_3": 1,
+      "mahasiswa_4": 1,
+      "mahasiswa_5": 1,
+      "mahasiswa_6": 1,
+      "mahasiswa_7": 1,
+      "mahasiswa_8": 1,
+      "mahasiswa_9": 1,
+      "mahasiswa_10": 1
+    },
+    {
+      "userId": 1,
+      "aspek_penilaian": 2,
+      "mahasiswa_1": 2,
+      "mahasiswa_2": 2,
+      "mahasiswa_3": 2,
+      "mahasiswa_4": 2,
+      "mahasiswa_5": 2,
+      "mahasiswa_6": 2,
+      "mahasiswa_7": 2,
+      "mahasiswa_8": 2,
+      "mahasiswa_9": 2,
+      "mahasiswa_10": 2
+    },
+    {
+    "userId": 1,
+    "aspek_penilaian": 3,
+    "mahasiswa_1": 3,
+    "mahasiswa_2": 3,
+    "mahasiswa_3": 3,
+    "mahasiswa_4": 3,
+    "mahasiswa_5": 3,
+    "mahasiswa_6": 3,
+    "mahasiswa_7": 3,
+    "mahasiswa_8": 3,
+    "mahasiswa_9": 3,
+    "mahasiswa_10": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
